@@ -1,0 +1,3 @@
+[submodule "bpattblog/themes/harbor"]
+	path = bpattblog/themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git
